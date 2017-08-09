@@ -10,7 +10,8 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFha'
 alias python-server='python -m SimpleHTTPServer 8000'
 alias php-server='php -S localhost:8000'
-alias profile='cd ~ | subl .profile'
+alias profile='subl ~/.profile'
+alias gitconfig='subl ~/.gitconfig'
 alias chrome='open -a "Google Chrome"'
 alias firefox='open -a Firefox'
 
