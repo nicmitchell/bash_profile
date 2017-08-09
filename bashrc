@@ -4,7 +4,7 @@ export ANDROID_HOME=~/Library/Android/sdk
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export EDITOR='subl -w'
 export CLICOLOR=1
-export LSCOLORS=GxFxCxDxBxegedabagacedq
+export LSCOLORS=ExFxBxDxCxegedabagacad
 
 # Utility
 alias ls='ls -GFha'
